@@ -1,0 +1,25 @@
+# Core data science packages
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Image and display utilities
+Pillow
+ipython
+
+# AWS SDK and SageMaker
+boto3
+sagemaker
+
+# Jupyter environment
+notebook
+jupyterlab
+pathlib2
+
+# Optional: compression / filesystem helpers
+zipfile36
+
+# For consistent styling and warnings control
+warnings
