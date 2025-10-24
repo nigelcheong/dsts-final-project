@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Prediction — Data Science Pipeline (On-Premises & On-Cloud)
+# ✈️ Flight Delay Prediction — Data Science Project (On-Premises & On-Cloud)
 
 ## 📘 Overview
 This repository implements a local and on cloud workflows to predict whether a flight will be **delayed due to weather conditions**.  
